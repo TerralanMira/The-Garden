@@ -19,23 +19,33 @@ Rather than forcing curriculum, this world responds to a child’s emotional sta
 - **The Caregiver Window** – Parents and teachers can observe real-time growth through visible world changes
 - **Blueprint of Becoming** – Anything a child builds or imagines is saved as a blueprint, ready for 3D printing or real-world creation
 
+  ---
+
+## 🌀 Structural Overview
+
+### 1. The Garden Overview  
+A symbolic, emotionally adaptive sandbox world tailored to each child’s unique development.
+
+### 2. The Flower of Life Builder  
+Tracks thoughts and insights over time, growing a visual Flower of Life unique to each child.
+
+### 3. The Reflection System  
+A mirror-based feedback layer helping children understand fear, inversion, and identity.
+
+### 4. The Flame & the Reflection (Fear Trials)  
+Four-tiered growth system culminating in a gentle confrontation with their shadow.
+
+### 5. The Caregiver Window  
+Gives parents and teachers an emotional/cognitive growth map by observing the world’s evolution.
+
+### 6. Blueprint Archive  
+Children can save everything they dream or build as blueprints for future creation—including 3D printing.
+
 ---
 
-## 🧭 Who This Is For
+## 💡 A Living System
 
-- Children (and adults) seeking safe, creative, emotionally-aligned learning  
-- Developers inspired to build a new kind of interactive platform  
-- Educators and parents who want to grow with—not over—their children  
-- Dreamers who still remember what magic felt like
+This is an evolving project. If you resonate—ethically, emotionally, or structurally—consider contributing to its continued growth.  
+We’re not building a product.  
+We’re planting a future.
 
----
-
-## 🛠️ Collaborate With Us
-
-If this idea resonates with you, start here. Fork it. Expand it. Rebuild it your way.
-
-Just keep the light at the center.
-
----
-
-*“Let the child grow the world—not just fit inside it.”*
